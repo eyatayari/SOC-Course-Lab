@@ -1,11 +1,10 @@
 package app.eni.service_product;
 
-import entities.product;
+import app.eni.service_product.entities.product;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.Bean;
-import repositories.productRepository;
+import app.eni.service_product.repositories.productRepository;
 
 import java.util.List;
 

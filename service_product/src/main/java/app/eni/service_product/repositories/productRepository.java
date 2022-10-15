@@ -1,6 +1,6 @@
-package repositories;
+package app.eni.service_product.repositories;
 
-import entities.product;
+import app.eni.service_product.entities.product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

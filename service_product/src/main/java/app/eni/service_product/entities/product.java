@@ -1,4 +1,4 @@
-package entities;
+package app.eni.service_product.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
